@@ -6,7 +6,7 @@ count = 0
 countTwo = 0
 
 function plusOne() {
-    count += 1
+    count += 11
     score.textContent = count
 }
 
