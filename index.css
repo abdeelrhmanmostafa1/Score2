@@ -1,0 +1,31 @@
+@font-face {
+    font-family: 'CursedTimer';
+    src: url(CursedTimer.ttf);
+}
+
+body {
+    margin: 0;
+    background-color: #1B244A;
+    text-align: center;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+
+h3 {
+    color: white;
+}
+
+p {
+    font-family: 'CursedTimer';
+    color: red;
+    background-color: black;
+    padding: 20px 10px;
+    font-size: 50px ;
+}
+
+button {
+    font-family: 'CursedTimer';
+}
