@@ -1,3 +1,4 @@
+MY SCOREBOARD PROJECT
 # Getting Started
 Install the dependencies and run the project
 ```
